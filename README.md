@@ -20,7 +20,9 @@
 ## Bike Sales Data Dashboard
 ![Bikesales_report_dashboard](https://github.com/user-attachments/assets/2f34e59b-134b-499a-b7cb-1a669ac0e7f5)
 
-  
+## Coffee Shop Sales Dashboard
+![CoffeeShop_Dashboard](https://github.com/user-attachments/assets/91ba086f-ace8-4e74-ae2b-280c0a6e1f41)
+
 ## Contact
 
 For any questions or feedback, please contact Rohith H at rohithraj002912@gmail.com.
